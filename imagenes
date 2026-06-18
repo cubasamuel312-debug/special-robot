@@ -1,0 +1,3 @@
+![Texto alternativo](url_de_la_imagen.jpg)
+data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg==
+<img src="nombre_de_la_imagen.png" alt="Descripción" width="500">
